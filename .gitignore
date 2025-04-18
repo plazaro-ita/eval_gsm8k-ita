@@ -1,0 +1,3 @@
+eval_results/*
+*.log
+__pycache__/
