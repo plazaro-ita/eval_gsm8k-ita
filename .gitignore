@@ -1,3 +1,4 @@
 eval_results/*
 *.log
 __pycache__/
+data/*

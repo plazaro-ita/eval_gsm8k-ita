@@ -131,8 +131,8 @@ def main():
         "<|im_end|>",
         #The following tokens were taken from https://github.com/QwenLM/Qwen/blob/main/eval/evaluate_gsm8k.py
         "<|endoftext|>",
-        "\n\n\n",
-        "\n\n",
+        #"\n\n\n",
+        #"\n\n",
         "Question:",
     ]
 
